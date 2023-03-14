@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "c:\Users\sadik\.vscode\extensions\ms-python.python-2021.12.1559732655\pythonFiles\shell_exec.py", line 26, in <module>
+    subprocess.check_call(shell_args, stdout=sys.stdout, stderr=sys.stderr)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\subprocess.py", line 363, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0/python.exe', '-m', 'pip', 'install', '-U', 'ipykernel', 'C:/Users/sadik/AppData/Local/Temp/tmp-7840X9iDs1fsDDaK.log']' returned non-zero exit status 1.

@@ -1,0 +1,13 @@
+.card {
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+  }
+  .card h5 {
+    padding: 15px;
+    background: #edf1ff;
+    border-radius: 4px 4px 0 0;
+  }
+  
+  .addUser .card form {
+    padding: 15px 30px;
+  }
